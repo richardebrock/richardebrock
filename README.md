@@ -3,7 +3,9 @@
 
 ## 🚀 Products:
 [Lightcube Pixel Art Editor](https://lightcube.art)
+
 [Sprite Sheet Slicer](https://isometric8.itch.io/sprite-sheet-slicer)
+
 [Sprite Sheet Maker](https://isometric8.itch.io/sprite-sheet-maker)
 
 ## 🌐 Socials:
