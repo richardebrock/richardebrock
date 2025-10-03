@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sound FX manager<br>🌱 I’m currently learning Digital Forensics Incident Response<br>⚡ Fun fact: The world’s oldest cat lived to 38 years and three days old.
+🔭 I’m currently working on Sound FX manager<br>🌱 I’m currently working on getting my masters degree in Ethical Hacking and Cybersecurity<br>⚡ Fun fact: The world’s oldest cat lived to 38 years and three days old.
 
 ## 🚀 Products:
 [Lightcube Pixel Art Editor](https://lightcube.art)
