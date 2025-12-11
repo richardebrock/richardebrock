@@ -1,13 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Sound FX manager<br>🌱 I’m currently working on getting my masters degree in Ethical Hacking and Cybersecurity<br>⚡ Fun fact: The world’s oldest cat lived to 38 years and three days old.
 
-## 🚀 Products:
-[Lightcube Pixel Art Editor](https://lightcube.art)
-
-[Sprite Sheet Slicer](https://isometric8.itch.io/sprite-sheet-slicer)
-
-[Sprite Sheet Maker](https://isometric8.itch.io/sprite-sheet-maker)
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/isometric_8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1137738) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/isometric_8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@isometric_8) 
 
